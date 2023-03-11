@@ -1,3 +1,5 @@
+# Made changes to the code to make it more comprehensive
+
 # Asking the user for inputs 
 print('Please enter the dividend :')
 dividend = int(input(''))
