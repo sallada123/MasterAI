@@ -1,11 +1,11 @@
-#Asking the user for inputs 
+# Asking the user for inputs 
 print('Please enter the dividend :')
 dividend = int(input(''))
 print('Please enter the divisor :')
 divisor = int(input(''))
 
 while True:
-    #checking divisibility
+    # Checking divisibility
     if dividend % divisor == 0:
         print('Success!',divisor,'divides the dividend')
         break
